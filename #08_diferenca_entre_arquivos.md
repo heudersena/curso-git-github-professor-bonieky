@@ -2,5 +2,5 @@
 - verificar se os arquivos foram commitados [etc].
 
 ```js
-    git diff
+    git diff // verificando as diferença
 ```
